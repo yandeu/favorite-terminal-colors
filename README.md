@@ -17,3 +17,6 @@
 | selectionBackground | `#555555`           | ![#555555](https://via.placeholder.com/12/555555/000000?text=+)                                                                 |
 | cursorBackground    | `#0C0E14`           | ![#0C0E14](https://via.placeholder.com/12/0C0E14/000000?text=+)                                                                 |
 | cursorForeground    | `#2FD651`           | ![#2FD651](https://via.placeholder.com/12/2FD651/000000?text=+)                                                                 |
+
+
+Alternative background: `#161925` ![#161925](https://via.placeholder.com/12/161925/000000?text=+)   
